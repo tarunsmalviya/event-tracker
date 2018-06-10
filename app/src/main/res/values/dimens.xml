@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TEXT SIZE-->
+    <dimen name="text_subheading">16sp</dimen>
+    <dimen name="text_caption">12sp</dimen>
+
+    <!--LAYOUT MARGINS-->
+    <dimen name="mini_spacing">8dp</dimen>
+    <dimen name="normal_spacing">16dp</dimen>
+
+    <dimen name="card_corner_radius">2dp</dimen>
+</resources>
